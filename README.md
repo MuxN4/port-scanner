@@ -44,5 +44,5 @@ This command scans ports 20 to 80 on the host 127.0.0.1 using 50 threads.
  - Use this tool responsibly and only scan hosts you have permission to scan.
 
 # Conclusion
-This README provides a comprehensive guide to understanding, installing, and using the enhanced port scanner, including examples and notes on responsible usage.
+This README provides a comprehensive guide to understanding, installing, and using this port scanner, including examples and notes on responsible usage.
 
