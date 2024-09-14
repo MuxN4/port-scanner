@@ -34,7 +34,6 @@ python port_scanner.py <host> <start_port> <end_port> [--threads <num_threads>]
 
 ## Example
 ```bash
-Copy code
 python port_scanner.py 127.0.0.1 20 80 --threads 50
 ```
 This command scans ports 20 to 80 on the host 127.0.0.1 using 50 threads.
