@@ -43,4 +43,3 @@ This command scans ports 20 to 80 on the host 127.0.0.1 using 50 threads.
 
 # Conclusion
 This README provides a comprehensive guide to understanding, installing, and using this port scanner, including examples and notes on responsible usage.
-
