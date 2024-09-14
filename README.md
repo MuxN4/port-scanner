@@ -22,7 +22,6 @@ cd port_scanner
 To run the port scanner, use the following command:
 
 ```bash
-Copy code
 python port_scanner.py <host> <start_port> <end_port> [--threads <num_threads>]
 ```
 ## Arguments
