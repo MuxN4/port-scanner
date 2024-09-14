@@ -38,4 +38,3 @@ python port_scanner.py 127.0.0.1 20 80 --threads 50
 This command scans ports 20 to 80 on the host 127.0.0.1 using 50 threads.
 
 ## Notes
- - Ensure you have the necessary permissions to scan ports on the target host.
