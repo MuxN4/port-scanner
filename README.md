@@ -39,7 +39,6 @@ This command scans ports 20 to 80 on the host 127.0.0.1 using 50 threads.
 
 ## Notes
  - Ensure you have the necessary permissions to scan ports on the target host.
- - Use this tool responsibly and only scan hosts you have permission to scan.
 
 # Conclusion
 This README provides a comprehensive guide to understanding, installing, and using this port scanner, including examples and notes on responsible usage.
