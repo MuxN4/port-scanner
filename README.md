@@ -1,5 +1,5 @@
 # Port Scanner
-scans a range of ports on a specified host to identify open and closed ports, supports multi-threading for faster scanning. 
+Scans a range of ports on a specified host to identify open and closed ports, supports multi-threading for faster scanning. 
 
 ## Features
 
